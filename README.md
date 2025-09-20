@@ -79,3 +79,8 @@ Make sure all JAR files and JSON files are in the same folder as Main.java.
 If k points are not provided or if JSON has invalid base values, the program will show an error.
 
 The program uses BigInteger to handle very large numbers.
+Author
+
+Your Name: sai yogesh gopisetti
+Course / Year: Final Year, 2026
+Assignment: Hashira Placements Assignment – Polynomial Secret Finder
